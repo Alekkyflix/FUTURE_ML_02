@@ -63,6 +63,7 @@ _Refer to the notebook output for the detailed Classification Report and Confusi
 
 - **Key Metrics**: Precision, Recall, and F1-Score for priority levels (Low, Medium, High, Critical).
 - **Observations**: Priority classification is generally harder than topic classification due to the subjective nature of urgency in text. The Random Forest model attempts to capture these nuances.
+<img width="919" height="855" alt="image" src="https://github.com/user-attachments/assets/82121545-a3e8-45b1-b28a-6f89acf30839" />
 
 ## Structure
 
