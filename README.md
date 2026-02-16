@@ -56,14 +56,15 @@ _Refer to the notebook output for the detailed Classification Report and Confusi
 
 - **Key Metrics**: Precision, Recall, and F1-Score are generated for each ticket category.
 - **Observations**: The Logistic Regression model effectively separates distinct categories. Common confusion points are visualized in the confusion matrix.
-
+<img width="919" height="855" alt="image" src="https://github.com/user-attachments/assets/82121545-a3e8-45b1-b28a-6f89acf30839" />
 ### 2. Priority Classification
 
 _Refer to the notebook output for the detailed Classification Report and Confusion Matrix._
 
 - **Key Metrics**: Precision, Recall, and F1-Score for priority levels (Low, Medium, High, Critical).
 - **Observations**: Priority classification is generally harder than topic classification due to the subjective nature of urgency in text. The Random Forest model attempts to capture these nuances.
-<img width="919" height="855" alt="image" src="https://github.com/user-attachments/assets/82121545-a3e8-45b1-b28a-6f89acf30839" />
+<img width="617" height="517" alt="image" src="https://github.com/user-attachments/assets/b4e0e9ea-2733-4b85-8ec5-3731d1a6a245" />
+
 
 ## Structure
 
